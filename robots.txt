@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://grandbendductcleaning.ca/sitemap-index.xml
