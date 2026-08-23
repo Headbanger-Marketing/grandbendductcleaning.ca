@@ -1,2 +1,25 @@
 # Grand Bend Duct Cleaning
-HVAC services in Ontario.
+
+> Grand Bend Duct Cleaning is a local HVAC company serving Grand Bend, Lambton, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 554-3151  |  Email: contact@grandbendductcleaning.ca  |  Website: https://grandbendductcleaning.ca
+
+## Key pages
+
+- [Home](https://grandbendductcleaning.ca/): Grand Bend Duct Cleaning homepage with service overview and FAQ
+- [About](https://grandbendductcleaning.ca/about/): About the company and service area
+- [Contact](https://grandbendductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://grandbendductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Grand Bend, Ontario
+- [Dryer Vent Cleaning](https://grandbendductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Grand Bend, Ontario
+- [Furnace & AC Cleaning](https://grandbendductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Grand Bend, Ontario
+- [HRV & Ventilation Cleaning](https://grandbendductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Grand Bend, Ontario
+- [Duct Sanitizing & Deodorizing](https://grandbendductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Grand Bend, Ontario
+- [Duct Sealing & Repair](https://grandbendductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Grand Bend, Ontario
+- [Commercial Duct Cleaning](https://grandbendductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Grand Bend, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Grand Bend are answered on the homepage.
